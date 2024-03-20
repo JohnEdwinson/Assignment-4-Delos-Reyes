@@ -32,3 +32,4 @@ export class AnotherPagePage implements OnInit{
     this.router.navigate(["shared-folder"])
   }
 }
+
